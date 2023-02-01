@@ -1,0 +1,38 @@
+.d-flex.row {
+  margin: auto;
+}
+
+.d-flex.row .col-md-7 {
+  margin: auto;
+}
+
+.card-header.white-bg.logo-main {
+  text-align: center;
+  background: #2a5789;
+}
+
+.form-control {
+  width: auto;
+  display: inline;
+}
+
+.form-control {
+  border-radius: 0;
+  border: none;
+  border-bottom: 2px solid #d7d7d7;
+}
+
+.input-group-text {
+  border: 0;
+  background: transparent;
+  min-width: 56px;
+}
+
+.box {
+  width: 90%;
+  margin: auto;
+}
+
+.wrapper {
+  padding-top: 30px;
+}
